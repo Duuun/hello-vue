@@ -1,5 +1,5 @@
 <template>
     <div>
-        ここはTOPページです。
+        <h1>ここはTOPページです。</h1>˙
     </div>
 </template>
