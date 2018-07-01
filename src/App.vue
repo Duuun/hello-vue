@@ -28,9 +28,9 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin: 60px;
 }
-.header {
-  font-size: 2rem;
+h1 {
+  font-size: 1.5rem;
 }
 </style>
