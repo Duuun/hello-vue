@@ -5,7 +5,4 @@
 </template>
 
 <style>
-body {
-  background-color: lightblue;
-}
 </style>
